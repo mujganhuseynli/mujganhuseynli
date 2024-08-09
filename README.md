@@ -18,11 +18,12 @@ I am actively seeking to advance my career by pursuing a PhD in Electrical Engin
 
 <!-- - 😄 Pronouns: She/Her -->
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mujganhuseynli&show_icons=true&locale=en" alt="mujganhuseynli" /></p>
 
 - 🔭 Currently working on my thesis - ["Design and Analysis of a FPGA-based Controller for GAN-based Three-Phase Inverters: Efficiency, Performance, and Reliability Optimization"](https://github.com/mujganhuseynli/thesis.git)
 
 - 👨‍💻 All of the past projects are available at [my repositories.](https://github.com/mujganhuseynli)
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mujganhuseynli&show_icons=true&locale=en" alt="mujganhuseynli" /></p>
 
 - 📝 Regularly writing articles on [my blog.](https://mujganhuseynli.github.i)
 
