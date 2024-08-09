@@ -10,7 +10,7 @@
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/) -->
 
-I am a final-year Electrical Engineering master’s student at [George Washington University (GWU)](https://gwu.edu) 🇺🇸. I earned my bachelor's degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az) 🇦🇿, and I also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
+I am a final-year Electrical Engineering master’s student at [George Washington University (GWU)](https://www.gwu.edu/) 🇺🇸. I earned my bachelor's degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az) 🇦🇿, and I also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
 
 I love solving complex challenges in Robotics, Control Systems, and Power Systems, particularly through the application of cutting-edge technologies such as Artificial Intelligence, Machine Learning, and IoT to enhance innovation and efficiency.
 
