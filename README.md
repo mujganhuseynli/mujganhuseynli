@@ -1,8 +1,7 @@
-<!-- <h1 align="center">Hi 👋, I'm Mujgan Huseynli</h1>
-<h3 align="center">I'm a final-year Electrical Engineering master's student at GWU with a passion for Robotics, Control Systems, and Power Systems, currently working at Honeywell while preparing to pursue a PhD.</h3> -->
+<h1 align="center">Hi there 👋, I'm Mujgan Huseynli</h1>
+<!-- <h3 align="center">I'm a final-year Electrical Engineering master's student at GWU with a passion for Robotics, Control Systems, and Power Systems, currently working at Honeywell while preparing to pursue a PhD.</h3> -->
 
-#### Hi there 👋 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujganhuseynli&label=Profile%20views&color=0e75b6&style=flat" alt="mujganhuseynli" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mujganhuseynli&label=Profile%20views&color=0e75b6&style=flat" alt="mujganhuseynli" /> </p>
 
 
 I am a final-year Electrical Engineering master’s student at [George Washington University (GWU)](https://gwu.edu) 🇺🇸. I earned my bachelor's degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az) 🇦🇿, and I also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
