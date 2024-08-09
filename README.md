@@ -1,8 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Mujgan Huseynli</h1>
 <!-- <h3 align="center">I'm a final-year Electrical Engineering master's student at GWU with a passion for Robotics, Control Systems, and Power Systems, currently working at Honeywell while preparing to pursue a PhD.</h3> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mujganhuseynli&label=Profile%20views&color=0e75b6&style=flat" alt="mujganhuseynli" /> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=mujganhuseynli&label=Profile%20views&color=0e75b6&style=flat" alt="mujganhuseynli" /> 
+<a href="https://linkedin.com/in/mujganhuseynli"><img src="https://img.shields.io/badge/-mujganhuseynli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mujganhuseynli/"/></a>
+<a href="mailto:huseynli.muzhgan@gmail.com"><img src="https://img.shields.io/badge/-huseynli.muzhgan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:huseynli.muzhgan@gmail.com"/></a>
+<a href="https://mujganhuseynli.github.io"><img src="https://img.shields.io/badge/-mujganhuseynli-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mujganguseynli"></a>
+</p>
 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/) -->
 
 I am a final-year Electrical Engineering master’s student at [George Washington University (GWU)](https://gwu.edu) 🇺🇸. I earned my bachelor's degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az) 🇦🇿, and I also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
 
