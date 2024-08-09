@@ -50,7 +50,7 @@ I am actively seeking to advance my career by pursuing a PhD in Electrical Engin
 ![](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 <!-- **Specialized Software:**
 ![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 <a href="https://www.autodesk.com/products/autocad" target="_blank"><img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" width="20" height="20" alt="AutoCAD"></a>
