@@ -18,7 +18,7 @@ Currently, I work as a Project Engineer I at [Honeywell](https://honeywell.com) 
 
 Previously, I interned as an Instrumentation and Control Engineer at [Emerson](https://emerson.com) 🇺🇸 and [Socar Polymer](https://www.socarpolymer.az/) 🇦🇿, where I developed and implemented control strategies for industrial processes.
 
-I am actively seeking to advance my career by pursuing a PhD in Electrical Engineering and am eager to collaborate with leading scholars in these vibrant fields.
+***I am actively seeking to advance my career by pursuing a PhD in Electrical Engineering and am eager to collaborate with leading scholars in these vibrant fields.***
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
